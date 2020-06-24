@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chronic_duration (0.10.6)
+      numerizer (~> 0.1.1)
+    numerizer (0.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chronic_duration
+
+BUNDLED WITH
+   2.1.4
